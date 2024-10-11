@@ -29,7 +29,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : jekyll-remote-theme
 
 # Conversion
 markdown            : kramdown
@@ -39,7 +39,7 @@ excerpt_separator   : "\n\n"
 incremental         : false
 
 # Theme: Cayman
-remote-theme        : pages-themes.github.io/cayman/
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Serving
 detach              : false
