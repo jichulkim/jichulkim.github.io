@@ -38,6 +38,10 @@ lsi                 : false
 excerpt_separator   : "\n\n"
 incremental         : false
 
+# Theme
+theme               : Cayman
+
+
 # Serving
 detach              : false
 port                : 4000
