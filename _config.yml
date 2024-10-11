@@ -38,9 +38,8 @@ lsi                 : false
 excerpt_separator   : "\n\n"
 incremental         : false
 
-# Theme
-theme               : Cayman
-
+# Theme: Cayman
+remote-theme        : pages-themes.github.io/cayman/
 
 # Serving
 detach              : false
